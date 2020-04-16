@@ -1,0 +1,22 @@
+<%- include("header") -%>
+<div class="box" id="heading">
+    <h1><%= day %></h1>
+</div>
+<div class="box">
+    <% for(var i=0;i<items.length;i++){ %>
+    <div class="item">
+        <input type="checkbox">
+        <p> <%= items[i] %> </p>
+    </div>
+    <% }  %>
+
+    <form class="item" action="/" method="POST">
+        <input type="text" class="" name="newItem" placeholder="new-item" autocomplete="off">
+        <button type="submit" name="list" value=<%= day %>>+</button>
+    </form>
+</div>
+
+<h1>Created By:<p>SAURAV KUMAR YADAV</p>
+</h1>
+
+<%- include("footer") -%>
