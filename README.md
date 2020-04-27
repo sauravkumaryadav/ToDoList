@@ -20,12 +20,12 @@ You can add as many items you want and also you can delete the items if done jus
   * we hosted our website on heroku and with the help of this now anyone around the world can access it. Heroku host our node.js server to keep our website live on the internet 24*7.
 
 * mongodb(NoSql) database is used.
- * Mongoose is one of the package of the mongodb.It allows node.js to be able to connect and talk with the mongodb database.Main objective of this mongoose is to simply writing of validation codes , shorter and easier to work with.
+  * Mongoose is one of the package of the mongodb.It allows node.js to be able to connect and talk with the mongodb database.Main objective of this mongoose is to simply writing of validation codes , shorter and easier to work with.
 
 * mongoDB-Atlas is used
- * It hosts our mongodb database and serve up the data all time i.e 24*7 whenever needed.
+  * It hosts our mongodb database and serve up the data all time i.e 24*7 whenever needed.
 
- * So, node.js app on heroku will be able to make necessary request to our database(that is hosted on mongodbAtlas) and can be able to perform all **CRUD** operations.
+  * So, node.js app on heroku will be able to make necessary request to our database(that is hosted on mongodbAtlas) and can be able to perform all **CRUD** operations.
 
 
 ---
