@@ -6,6 +6,12 @@ You can add as many items you want and also you can delete the items if done jus
 
 ---
 
+# My website Link : i.e using HEROKU
+
+[ToDoList](https://cryptic-stream-78043.herokuapp.com/  "Visit website")
+
+---
+
 # Major Features Used
 * EJS Templates
   * EJS(Embedded JavaScript) Templates are used.As EJS templates contains a basic code that we want in every web pages.And file which contains an extension *.ejs* will be a base template for creating all other html files.
@@ -81,10 +87,5 @@ localhost:5000
 
   ---
 
-# My website Link : i.e using HEROKU
-
-[ToDoList](https://cryptic-stream-78043.herokuapp.com/  "Visit website")
-
----
 # Thank you
 
