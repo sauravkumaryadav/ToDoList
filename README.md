@@ -12,7 +12,7 @@ You can add as many items you want and also you can delete the items if done jus
 
 ---
 
-# Major Features Used
+### Major Features Used
 * EJS Templates
   * EJS(Embedded JavaScript) Templates are used.As EJS templates contains a basic code that we want in every web pages.And file which contains an extension *.ejs* will be a base template for creating all other html files.
 
@@ -37,7 +37,7 @@ You can add as many items you want and also you can delete the items if done jus
 ---
 
 
-# Running The Project
+### Running The Project
 
 
 * you can use fork to get my repository directly on your github account.
@@ -87,5 +87,5 @@ localhost:5000
 
   ---
 
-# Thank you
+### Thank you
 
